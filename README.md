@@ -76,7 +76,7 @@ Triple relationships (join over three tables) the part of the brief that goes be
 | Engagement  |  Review , Message , Engagement Wishlist , WishlistItem , IncomeEstimate , Notification    |
 
 ### Development Phase
-Mysql code statement and screenshots of the table execution was documented using power point. All codes statement and executions output would be uploaded for overview.
+MySQL code statements and screenshots of the table executions were documented using PowerPoint. All code statements and execution outputs will be uploaded for an overview.
 
 ### Test Cases
 At least one test query was written and executed per relationship type required by the brief, the three ternary relationships, the recursive relationship, a many-to-many junction, and a business relevant aggregate.
