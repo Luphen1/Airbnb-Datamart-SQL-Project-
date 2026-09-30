@@ -33,7 +33,7 @@ Airbnb connects hosts who have space to rent with guests who need short-term acc
 
 | Fields | Description |
 | :--- | :---- |
-| Course | DLBDSPBDM01 — Build a Data Mart in SQL |
+| Course | Build a Data Mart in SQL (DLBDSPBDM01) |
 | Use case | Airbnb (hosts renting listings to guests) |
 | DBMS | MySQL 8.0 (SQL Server variant also included) |
 | Entities  |  24   |
