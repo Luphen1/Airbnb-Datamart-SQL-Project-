@@ -11,6 +11,16 @@ Internationale Hochschule's Data Mart SQL course.
 
 
 
+<img width="1512" height="1330" alt="DataMart ERD Diagram" src="https://github.com/user-attachments/assets/cac24d85-02fb-4e15-868f-5b19cd63bfba" />
+
+
+
+
+
+
+
+
+
 ### Table of contents
 
 - **[Project Overview](#project-overview)**
