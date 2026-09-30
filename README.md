@@ -100,7 +100,8 @@ JOIN GuestProfile g ON p.GuestID = g.GuestID
 JOIN UserAccount u1 ON g.UserID = u1.UserID
 JOIN HostProfile h ON p.HostID = h.HostID
 JOIN UserAccount u2 ON h.UserID = u2.UserID
-WHERE p.PaymentStatus = 'Paid';
+WHERE p.PaymentStatus = 'Paid'
+LIMIT 10;
 
 ```
 
